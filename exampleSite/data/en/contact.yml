@@ -3,14 +3,12 @@ contact:
   enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content: Feel free to contact me with any of the following options.
   contact_list:
   - icon: ti-location-pin
     info: Kibagabaga, Kigali
   - icon: ti-mobile
-    info: 'Phone: +880-85-247-553'
+    info: 'Phone: +250-785-247-553'
   - icon: ti-email
     info: 'Email: derejeshenkut@gmail.com'
   contact_form:
