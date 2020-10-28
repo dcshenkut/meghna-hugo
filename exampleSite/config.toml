@@ -1,4 +1,4 @@
-baseURL = "https://derejecs.com"
+baseURL = "https://derejecs.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
