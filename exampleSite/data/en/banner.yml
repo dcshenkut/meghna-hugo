@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "/images/hero-area.webp"
-  bg_image: "/images/hero-area.jpg"
+  bg_image_webp: ''
+  bg_image: ''
   icon: ''
   title: Welcome to my personal website !
   content: |-
