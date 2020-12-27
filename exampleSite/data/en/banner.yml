@@ -8,7 +8,7 @@ banner:
   content: |-
     Hello, Dereje here.
     Welcome to my website!
-    This website includes my bio, personal projects, interest areas and visions.
+    This website includes my bio, personal projects, interest areas, and visions.
   button:
     enable: true
     label: Explore More here !
